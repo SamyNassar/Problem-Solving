@@ -2,5 +2,6 @@
 
 | Challenge     | Difficulty    | Solution |
 | ------------- |:-------------:| -----:|
-| Die Roll      | A | [die-roll.py](https://github.com/SamyNassar/Algorithms-and-Data-Structures-training---IEEE-CS-ZSB/blob/master/CS21-Science-Day-1/A.%20Die%20Roll.py) |
-| Left Rotation      | Easy      |   [left-rotation.py](https://github.com/SamyNassar/Algorithms-and-Data-Structures-training---IEEE-CS-ZSB/blob/master/CS21-Science-Day-1/Left%20Rotation.py) |
+| Die Roll      | A | [die-roll.py](CS21-Science-Day-1/die-roll.py) |
+| Left Rotation      | Easy      |   [left-rotation.py](CS21-Science-Day-1/left-rotation.py) |
+| Find Merge Point of Two Lists     | Easy    | [find-merge-point-of-two-lists.py](CS21-Science-Day-2\find-merge-point-of-two-lists.py) |
