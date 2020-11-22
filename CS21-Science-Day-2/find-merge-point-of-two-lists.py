@@ -49,21 +49,6 @@ def print_singly_linked_list(node, sep, fptr):
 #
 #
 def findMergeNode(head1, head2):
-    # currentHead1 = head1
-    # currentHead2 = head2
-    
-    # while(currentHead1 != currentHead2):
-    #     if currentHead1.next == None:
-    #         currentHead1.next = head2
-    #     else:
-    #         currentHead1 = currentHead1.next
-            
-    #     if currentHead2.next == None:
-    #         currentHead2.next = head1
-    #     else:
-    #         currentHead2 = currentHead2.next
-            
-    # return currentHead1.data
     list1 = []
     list2 = []
     currentHead1 = head1
@@ -79,8 +64,8 @@ def findMergeNode(head1, head2):
     
     l1 = len(list1)
     l2 = len(list2)
-        
     smallestLength = l1 if l1 < l2 else l2
+
     for i in range(1, smallestLength):
         if list1[-i] != list2[-i]:
             return list1[-i + 1]
