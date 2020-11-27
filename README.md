@@ -11,3 +11,4 @@
 | [Flipping the Matrix](https://www.hackerrank.com/challenges/flipping-the-matrix/problem)     | Medium    | [flipping-the-matrix.py](CS21-Science-Day-5/flipping-the-matrix.py) |
 | [Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem)     | Medium    | [cycle-detection.py](CS21-Science-Day-5/cycle-detection.py) |
 | [Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem)     | Medium    | [tree-huffman-decoding.py](CS21-Science-Day-6/tree-huffman-decoding.py) |
+| [New Password](http://codeforces.com/contest/770/problem/A)     | A    | [new-password.py](CS21-Science-Day-6/new-password.py) |
