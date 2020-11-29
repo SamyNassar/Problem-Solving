@@ -13,3 +13,4 @@
 | [Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem)     | Medium    | [tree-huffman-decoding.py](CS21-Science-Day-6/tree-huffman-decoding.py) |
 | [New Password](http://codeforces.com/contest/770/problem/A)     | A    | [new-password.py](CS21-Science-Day-6/new-password.py) |
 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)     | Easy    | [defanging-an-ip-address.py](CS21-Science-Day-8/defanging-an-ip-address.py) |
+| [Snacktower](https://codeforces.com/problemset/problem/767/A)     | A    | [snacktower.py](CS21-Science-Day-8/snacktower.py) |
