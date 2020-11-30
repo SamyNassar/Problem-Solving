@@ -14,3 +14,4 @@
 | [New Password](http://codeforces.com/contest/770/problem/A)     | A    | [new-password.py](CS21-Science-Day-6/new-password.py) |
 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)     | Easy    | [defanging-an-ip-address.py](CS21-Science-Day-8/defanging-an-ip-address.py) |
 | [Snacktower](https://codeforces.com/problemset/problem/767/A)     | A    | [snacktower.py](CS21-Science-Day-8/snacktower.py) |
+| [Tom Riddle's Diary](https://codeforces.com/contest/855/problem/A)     | A    | [tom-riddle's-diary.py](CS21-Science-Day-9/tom-riddle's-diary.py) |
