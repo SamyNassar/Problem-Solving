@@ -1,5 +1,5 @@
 
-# Time complexity is : O(n)
+# Time complexity is : O(n*m)
 
 
 def placeSnacks(n, snacks):
