@@ -17,3 +17,4 @@
 | [Tom Riddle's Diary](https://codeforces.com/contest/855/problem/A)     | A    | [tom-riddle's-diary.py](CS21-Science-Day-9/tom-riddle's-diary.py) |
 | [Registration system](https://codeforces.com/contest/4/problem/C)     | C    | [registration-system.py](CS21-Science-Day-9/registration-system.py) |
 | [Pangram](https://codeforces.com/problemset/problem/520/A)      | A | [pangram.py](CS21-Science-Day-10/pangram.py) |
+| [Amusing Joke](https://codeforces.com/problemset/problem/141/A)      | A | [amusing-joke.py](CS21-Science-Day-10/amusing-joke.py) |
