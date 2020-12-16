@@ -20,4 +20,5 @@
 | [Amusing Joke](https://codeforces.com/problemset/problem/141/A)      | A | [amusing-joke.py](CS21-Science-Day-10/amusing-joke.py) |
 | [Sereja and Suffixes](https://codeforces.com/problemset/problem/368/B)      | B | [sereja-and-suffixes.py](CS21-Science-Day-11/sereja-and-suffixes.py) |
 | [Kuriyama Mirai's Stones](https://codeforces.com/problemset/problem/433/B)      | B | [kuriyama-mirai's-stones.py](CS21-Science-Day-11/kuriyama-mirai's-stones.py) |
+| [Doggo Recoloring](https://codeforces.com/contest/1025/problem/A)      | A | [doggo-recoloring.py](CS21-Science-Day-11/doggo-recoloring.py) |
 
