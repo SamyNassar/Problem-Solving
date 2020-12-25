@@ -23,4 +23,5 @@
 | [Doggo Recoloring](https://codeforces.com/contest/1025/problem/A)      | A | [doggo-recoloring.py](CS21-Science-Day-11/doggo-recoloring.py) |
 | [Stripe](https://codeforces.com/contest/18/problem/C)      | C | [stripe.py](CS21-Science-Day-12/stripe.py) |
 | [The Festive Evening](https://codeforces.com/problemset/problem/834/B)      | B | [the-festive-evening.py](CS21-Science-Day-13/the-festive-evening.py) |
+| [Karen and Coffee](https://codeforces.com/contest/816/problem/B)      | B | [karen-and-coffee.py](CS21-Science-Day-14/karen-and-coffee.py) |
 
