@@ -24,4 +24,4 @@
 | [Stripe](https://codeforces.com/contest/18/problem/C)      | C | [stripe.py](CS21-Science-Day-12/stripe.py) |
 | [The Festive Evening](https://codeforces.com/problemset/problem/834/B)      | B | [the-festive-evening.py](CS21-Science-Day-13/the-festive-evening.py) |
 | [Karen and Coffee](https://codeforces.com/contest/816/problem/B)      | B | [karen-and-coffee.py](CS21-Science-Day-14/karen-and-coffee.py) |
-
+| [Sam and Substrings](https://www.hackerrank.com/challenges/sam-and-substrings/problem)      | Medium | [sam-and-substrings.py](CS21-Science-Day-16/sam-and-substrings.py) |
