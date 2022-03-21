@@ -1,5 +1,7 @@
 # Problem Solving
 
+<!-- | []() | []() | -->
+
 | Challenge     |  Solution |
 | :-------------: | :-----:|
 | [Die Roll](http://codeforces.com/contest/9/problem/A) |  [die-roll.py](IEEE-CS21/CS21-Science-Day-1/die-roll.py) |
@@ -25,3 +27,8 @@
 | [The Festive Evening](https://codeforces.com/problemset/problem/834/B)   | [the-festive-evening.py](IEEE-CS21/CS21-Science-Day-13/the-festive-evening.py) |
 | [Karen and Coffee](https://codeforces.com/contest/816/problem/B)  | [karen-and-coffee.py](IEEE-CS21/CS21-Science-Day-14/karen-and-coffee.py) |
 | [Sam and Substrings](https://www.hackerrank.com/challenges/sam-and-substrings/problem)    | [sam-and-substrings.py](IEEE-CS21/CS21-Science-Day-16/sam-and-substrings.py) |
+| [Boy or Girl](http://codeforces.com/contest/236/problem/A) | [boy_or_girl.py](ICPC-training/boy_or_girl.py) |
+| [Free Ice Cream](http://codeforces.com/contest/686/problem/A) | [free_ice_cream.py](ICPC-training/free_ice_cream.py) |
+| [Sum of Digits](http://codeforces.com/contest/102/problem/B) | [sum_of_digits](ICPC-training/sum_of_digits.py) |
+| [Steps](https://codeforces.com/contest/152/problem/B) | [steps.py](ICPC-training/steps.py) |
+| [President's Office](https://codeforces.com/contest/6/problem/B) | [president's_office.py](ICPC-training/president's_office.py) |
