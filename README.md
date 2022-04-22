@@ -32,3 +32,7 @@
 | [Sum of Digits](http://codeforces.com/contest/102/problem/B) | [sum_of_digits](ICPC-training/sum_of_digits.py) |
 | [Steps](https://codeforces.com/contest/152/problem/B) | [steps.py](ICPC-training/steps.py) |
 | [President's Office](https://codeforces.com/contest/6/problem/B) | [president's_office.py](ICPC-training/president's_office.py) |
+| [Customising the Track](https://codeforces.com/problemset/problem/1543/B) | [customising_the_track.cpp](ICPC-training/customising_the_track.cpp) |
+| [Tavas and SaDDas](https://codeforces.com/contest/535/problem/B) | [tavas_and_saddas](ICPC-training/tavas_and_saddas) |
+| [Johnny and His Hobbies](https://codeforces.com/problemset/problem/1362/B?csrf_token=2dd500c3c761aa6d5422b193c54d379c) | [johnny_and_his_hobbies.cpp](ICPC-training/johnny_and_his_hobbies.cpp) |
+| [Simple Equations](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&category=0&problem=2612&mosmsg=Submission+received+with+ID+27429927) | [simple_equations.cpp](ICPC-training/simple_equations.cpp) |
