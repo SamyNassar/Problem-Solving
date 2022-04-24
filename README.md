@@ -36,3 +36,7 @@
 | [Tavas and SaDDas](https://codeforces.com/contest/535/problem/B) | [tavas_and_saddas](ICPC-training/tavas_and_saddas) |
 | [Johnny and His Hobbies](https://codeforces.com/problemset/problem/1362/B?csrf_token=2dd500c3c761aa6d5422b193c54d379c) | [johnny_and_his_hobbies.cpp](ICPC-training/johnny_and_his_hobbies.cpp) |
 | [Simple Equations](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&category=0&problem=2612&mosmsg=Submission+received+with+ID+27429927) | [simple_equations.cpp](ICPC-training/simple_equations.cpp) |
+| [The Monster](https://codeforces.com/problemset/problem/787/A) | [the_monster.cpp](ICPC-training/the_monster.cpp) |
+| [Vito's Family](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=982) | [vitos_family.cpp](ICPC-training/vitos_family.cpp) |
+| [Worms Evolution](https://codeforces.com/problemset/problem/31/A) | [worms_evolution.cpp](ICPC-training/worms_evolution.cpp) |
+| [Game 23](https://codeforces.com/problemset/problem/1141/A) | [game-23.cpp](ICPC-training/game-23.cpp) |
