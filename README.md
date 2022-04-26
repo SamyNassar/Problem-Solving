@@ -40,3 +40,7 @@
 | [Vito's Family](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=982) | [vitos_family.cpp](ICPC-training/vitos_family.cpp) |
 | [Worms Evolution](https://codeforces.com/problemset/problem/31/A) | [worms_evolution.cpp](ICPC-training/worms_evolution.cpp) |
 | [Game 23](https://codeforces.com/problemset/problem/1141/A) | [game-23.cpp](ICPC-training/game-23.cpp) |
+| [DZY Loves Chessboard](https://codeforces.com/problemset/problem/445/A) | [dzy-loves-chessboard.cpp](ICPC-training/dzy-loves-chessboard.cpp) |
+| [Dubstep](https://codeforces.com/problemset/problem/208/A) | []() |
+| []() | []() |
+| []() | []() |
