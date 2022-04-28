@@ -43,3 +43,11 @@
 | [DZY Loves Chessboard](https://codeforces.com/problemset/problem/445/A) | [dzy-loves-chessboard.cpp](ICPC-training/dzy-loves-chessboard.cpp) |
 | [Dubstep](https://codeforces.com/problemset/problem/208/A) | [dubstep.cpp](ICPC-training/dubstep.cpp) |
 | [Little Elephant and Function](https://vjudge.net/contest/490851#problem/C) | [little-elephant-and-function.cpp](ICPC-training/little-elephant-and-function.cpp) |
+| [k-String](https://codeforces.com/problemset/problem/219/A) | [k-string](ICPC-training/k-string) |
+| [Xenia and Divisors](https://codeforces.com/problemset/problem/342/A) | [xenia-and-divisors.cpp](ICPC-training/xenia-and-divisors.cpp) |
+| [GCD problem](https://codeforces.com/problemset/problem/1617/B) | [gcd-problem.cpp](ICPC-training/gcd-problem.cpp) |
+| [Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) | [beautiful-matrix.cpp](ICPC-training/beautiful-matrix.cpp) |
+| [Cut Ribbon](https://codeforces.com/problemset/problem/189/A) | [cut_ribbon.cpp](ICPC-training/cut_ribbon.cpp) |
+| [Fancy Fence](https://codeforces.com/problemset/problem/270/A) | [fancy-fence.cpp](ICPC-training/fancy-fence.cpp) |
+| [IQ Test](https://codeforces.com/problemset/problem/287/A) | [iq_test.cpp](ICPC-training/iq_test.cpp) |
+
