@@ -50,4 +50,6 @@
 | [Cut Ribbon](https://codeforces.com/problemset/problem/189/A) | [cut_ribbon.cpp](ICPC-training/cut_ribbon.cpp) |
 | [Fancy Fence](https://codeforces.com/problemset/problem/270/A) | [fancy-fence.cpp](ICPC-training/fancy-fence.cpp) |
 | [IQ Test](https://codeforces.com/problemset/problem/287/A) | [iq_test.cpp](ICPC-training/iq_test.cpp) |
+| [Alphabetic Removals](https://codeforces.com/problemset/problem/999/C) | [alphavetic-removals.cpp](ICPC-training/alphavetic-removals.cpp) |
+| [Pangram](https://codeforces.com/problemset/problem/520/A) | [pangram.cpp](ICPC-training/pangram.cpp) |
 
