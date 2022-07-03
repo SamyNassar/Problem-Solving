@@ -42,7 +42,7 @@
 | [Game 23](https://codeforces.com/problemset/problem/1141/A) | [game-23.cpp](ICPC-training/game-23.cpp) |
 | [DZY Loves Chessboard](https://codeforces.com/problemset/problem/445/A) | [dzy-loves-chessboard.cpp](ICPC-training/dzy-loves-chessboard.cpp) |
 | [Dubstep](https://codeforces.com/problemset/problem/208/A) | [dubstep.cpp](ICPC-training/dubstep.cpp) |
-| [Little Elephant and Function](https://vjudge.net/contest/490851#problem/C) | [little-elephant-and-function.cpp](ICPC-training/little-elephant-and-function.cpp) |
+| [Little Elephant and Function](https://codeforces.com/problemset/problem/221/A) | [little-elephant-and-function.cpp](ICPC-training/little-elephant-and-function.cpp) |
 | [k-String](https://codeforces.com/problemset/problem/219/A) | [k-string](ICPC-training/k-string) |
 | [Xenia and Divisors](https://codeforces.com/problemset/problem/342/A) | [xenia-and-divisors.cpp](ICPC-training/xenia-and-divisors.cpp) |
 | [GCD problem](https://codeforces.com/problemset/problem/1617/B) | [gcd-problem.cpp](ICPC-training/gcd-problem.cpp) |
