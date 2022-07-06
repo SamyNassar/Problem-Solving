@@ -33,7 +33,7 @@
 | [Steps](https://codeforces.com/contest/152/problem/B) | [steps.py](ICPC-training/steps.py) |
 | [President's Office](https://codeforces.com/contest/6/problem/B) | [president's_office.py](ICPC-training/president's_office.py) |
 | [Customising the Track](https://codeforces.com/problemset/problem/1543/B) | [customising_the_track.cpp](ICPC-training/customising_the_track.cpp) |
-| [Tavas and SaDDas](https://codeforces.com/contest/535/problem/B) | [tavas_and_saddas](ICPC-training/tavas_and_saddas) |
+| [Tavas and SaDDas](https://codeforces.com/contest/535/problem/B) | [tavas_and_saddas](ICPC-training/tavas_and_saddas.cpp) |
 | [Johnny and His Hobbies](https://codeforces.com/problemset/problem/1362/B?csrf_token=2dd500c3c761aa6d5422b193c54d379c) | [johnny_and_his_hobbies.cpp](ICPC-training/johnny_and_his_hobbies.cpp) |
 | [Simple Equations](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&category=0&problem=2612&mosmsg=Submission+received+with+ID+27429927) | [simple_equations.cpp](ICPC-training/simple_equations.cpp) |
 | [The Monster](https://codeforces.com/problemset/problem/787/A) | [the_monster.cpp](ICPC-training/the_monster.cpp) |
@@ -43,7 +43,7 @@
 | [DZY Loves Chessboard](https://codeforces.com/problemset/problem/445/A) | [dzy-loves-chessboard.cpp](ICPC-training/dzy-loves-chessboard.cpp) |
 | [Dubstep](https://codeforces.com/problemset/problem/208/A) | [dubstep.cpp](ICPC-training/dubstep.cpp) |
 | [Little Elephant and Function](https://codeforces.com/problemset/problem/221/A) | [little-elephant-and-function.cpp](ICPC-training/little-elephant-and-function.cpp) |
-| [k-String](https://codeforces.com/problemset/problem/219/A) | [k-string](ICPC-training/k-string) |
+| [k-String](https://codeforces.com/problemset/problem/219/A) | [k-string](ICPC-training/k-string.cpp) |
 | [Xenia and Divisors](https://codeforces.com/problemset/problem/342/A) | [xenia-and-divisors.cpp](ICPC-training/xenia-and-divisors.cpp) |
 | [GCD problem](https://codeforces.com/problemset/problem/1617/B) | [gcd-problem.cpp](ICPC-training/gcd-problem.cpp) |
 | [Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) | [beautiful-matrix.cpp](ICPC-training/beautiful-matrix.cpp) |
