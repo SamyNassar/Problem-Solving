@@ -55,3 +55,5 @@
 | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | [buy_a_shovel.cpp](ICPC-training/buy_a_shovel.cpp) |
 | [Games](https://codeforces.com/contest/268/problem/A) | [games.cpp](ICPC-training/games.cpp) |
 | [Night at the Museum](https://codeforces.com/contest/731/problem/A) | [night_at_the_museum.cpp](ICPC-training/night_at_the_museum.cpp) |
+
+| [Helpful Maths](https://codeforces.com/contest/339/problem/A) | [helpful_maths.cpp](ICPC-training/helpful_maths.cpp) |
