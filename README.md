@@ -53,3 +53,4 @@
 | [Alphabetic Removals](https://codeforces.com/problemset/problem/999/C) | [alphavetic-removals.cpp](ICPC-training/alphavetic-removals.cpp) |
 | [Pangram](https://codeforces.com/problemset/problem/520/A) | [pangram.cpp](ICPC-training/pangram.cpp) |
 | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | [buy_a_shovel.cpp](ICPC-training/buy_a_shovelbuy_a_shovel.cpp) |
+| [Games](https://codeforces.com/contest/268/problem/A) | [games.cpp](ICPC-training/games.cpp) |
