@@ -57,3 +57,4 @@
 | [Night at the Museum](https://codeforces.com/contest/731/problem/A) | [night_at_the_museum.cpp](ICPC-training/night_at_the_museum.cpp) |
 
 | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | [helpful_maths.cpp](ICPC-training/helpful_maths.cpp) |
+| [New Password](https://codeforces.com/contest/770/problem/A) | [new_password.cpp](ICPC-training/new_password.cpp) |
