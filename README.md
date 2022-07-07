@@ -58,3 +58,4 @@
 
 | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | [helpful_maths.cpp](ICPC-training/helpful_maths.cpp) |
 | [New Password](https://codeforces.com/contest/770/problem/A) | [new_password.cpp](ICPC-training/new_password.cpp) |
+| [Light, more light](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1051) | [light_more_light.cpp](ICPC-training/light_more_light.cpp)
