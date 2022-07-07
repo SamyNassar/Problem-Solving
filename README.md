@@ -55,7 +55,6 @@
 | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | [buy_a_shovel.cpp](ICPC-training/buy_a_shovel.cpp) |
 | [Games](https://codeforces.com/contest/268/problem/A) | [games.cpp](ICPC-training/games.cpp) |
 | [Night at the Museum](https://codeforces.com/contest/731/problem/A) | [night_at_the_museum.cpp](ICPC-training/night_at_the_museum.cpp) |
-
 | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | [helpful_maths.cpp](ICPC-training/helpful_maths.cpp) |
 | [New Password](https://codeforces.com/contest/770/problem/A) | [new_password.cpp](ICPC-training/new_password.cpp) |
 | [Light, more light](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1051) | [light_more_light.cpp](ICPC-training/light_more_light.cpp)
