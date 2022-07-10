@@ -61,3 +61,4 @@
 | [Presents](https://codeforces.com/contest/136/problem/A) | [presents.cpp](ICPC-training/presents.cpp) |
 | [Lineland Mail](https://codeforces.com/contest/567/problem/A) | [lineland_mail.cpp](ICPC-training/lineland_mail.cpp) |
 | [Mahmoud and Longest Uncommon Subsequence](https://codeforces.com/contest/766/problem/A) | [mahmoud_and_longest_uncommon_subsequence.cpp](ICPC-training/mahmoud_and_longest_uncommon_subsequence.cpp) |
+| [Oath of the Nights Watch](https://codeforces.com/contest/768/problem/A) | [oath_of_the_nights_watch.cpp](ICPC-training/oath_of_the_nights_watch.cpp) |
