@@ -63,3 +63,4 @@
 | [Mahmoud and Longest Uncommon Subsequence](https://codeforces.com/contest/766/problem/A) | [mahmoud_and_longest_uncommon_subsequence.cpp](ICPC-training/mahmoud_and_longest_uncommon_subsequence.cpp) |
 | [Oath of the Nights Watch](https://codeforces.com/contest/768/problem/A) | [oath_of_the_nights_watch.cpp](ICPC-training/oath_of_the_nights_watch.cpp) |
 | [Twins](https://codeforces.com/contest/160/problem/A) | [twins.cpp](ICPC-training/twins.cpp) |
+| [Round Down the Price](https://codeforces.com/contest/1702/problem/A) | [round_down_the_price.cpp](ICPC-training/round_down_the_price.cpp) |
