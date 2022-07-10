@@ -60,3 +60,4 @@
 | [Light, more light](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1051) | [light_more_light.cpp](ICPC-training/light_more_light.cpp)
 | [Presents](https://codeforces.com/contest/136/problem/A) | [presents.cpp](ICPC-training/presents.cpp) |
 | [Lineland Mail](https://codeforces.com/contest/567/problem/A) | [lineland_mail.cpp](ICPC-training/lineland_mail.cpp) |
+| [Mahmoud and Longest Uncommon Subsequence](https://codeforces.com/contest/766/problem/A) | [mahmoud_and_longest_uncommon_subsequence.cpp](ICPC-training/mahmoud_and_longest_uncommon_subsequence.cpp) |
