@@ -66,3 +66,4 @@
 | [Round Down the Price](https://codeforces.com/contest/1702/problem/A) | [round_down_the_price.cpp](ICPC-training/round_down_the_price.cpp) |
 | [Polycarp Writes a String from Memory](https://codeforces.com/contest/1702/problem/B) | [polycarp_writes_a_string_from_memory.cpp](ICPC-training/polycarp_writes_a_string_from_memory.cpp) |
 | [Train and Queries](https://codeforces.com/contest/1702/problem/C) | [train_and_queries.cpp](ICPC-training/train_and_queries.cpp) |
+| [Even Odds](https://codeforces.com/contest/318/problem/A) | [even_odds.cpp](ICPC-training/even_odds.cpp) |
