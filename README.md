@@ -72,3 +72,4 @@
 | [Burglar and Matches](https://codeforces.com/contest/16/problem/B) | [burglar_and_matches.cpp](ICPC-training/burglar_and_matches.cpp) |
 | [Caisa and Pylons](https://codeforces.com/contest/463/problem/B) | [caisa_and_pylons.cpp](ICPC-training/caisa_and_pylons.cpp) |
 | [YES or YES](https://codeforces.com/contest/1703/problem/0) | [yes_or_yes.cpp](ICPC-training/yes_or_yes.cpp) |
+| [ICPC Balloons](https://codeforces.com/contest/1703/problem/B) | [icpc_balloons.cpp](ICPC-training/icpc_balloons.cpp) |
