@@ -68,3 +68,4 @@
 | [Train and Queries](https://codeforces.com/contest/1702/problem/C) | [train_and_queries.cpp](ICPC-training/train_and_queries.cpp) |
 | [Even Odds](https://codeforces.com/contest/318/problem/A) | [even_odds.cpp](ICPC-training/even_odds.cpp) |
 | [Petya and Countryside](https://codeforces.com/contest/66/problem/B) | [petya_and_countryside.cpp](ICPC-training/petya_and_countryside.cpp) |
+| [Bear and Finding Criminals](https://codeforces.com/contest/680/problem/B) | [bear_and_finding_criminals.cpp](ICPC-training/bear_and_finding_criminals.cpp) |
