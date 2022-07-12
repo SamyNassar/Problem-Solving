@@ -70,3 +70,4 @@
 | [Petya and Countryside](https://codeforces.com/contest/66/problem/B) | [petya_and_countryside.cpp](ICPC-training/petya_and_countryside.cpp) |
 | [Bear and Finding Criminals](https://codeforces.com/contest/680/problem/B) | [bear_and_finding_criminals.cpp](ICPC-training/bear_and_finding_criminals.cpp) |
 | [Burglar and Matches](https://codeforces.com/contest/16/problem/B) | [burglar_and_matches.cpp](ICPC-training/burglar_and_matches.cpp) |
+| [Caisa and Pylons](https://codeforces.com/contest/463/problem/B) | [caisa_and_pylons.cpp](ICPC-training/caisa_and_pylons.cpp) |
