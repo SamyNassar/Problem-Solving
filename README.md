@@ -75,3 +75,4 @@
 | [ICPC Balloons](https://codeforces.com/contest/1703/problem/B) | [icpc_balloons.cpp](ICPC-training/icpc_balloons.cpp) |
 | [Cypher](https://codeforces.com/contest/1703/problem/C) | [cypher.cpp](ICPC-training/cypher.cpp) |
 | [Double Strings](https://codeforces.com/contest/1703/problem/D) | [double_strings.cpp](ICPC-training/double_strings.cpp) |
+| [Lovely Palindromes](https://codeforces.com/contest/688/problem/B) | [lovely_palindromes.cpp](ICPC-training/lovely_palindromes.cpp) |
