@@ -77,3 +77,4 @@
 | [Double Strings](https://codeforces.com/contest/1703/problem/D) | [double_strings.cpp](ICPC-training/double_strings.cpp) |
 | [Lovely Palindromes](https://codeforces.com/contest/688/problem/B) | [lovely_palindromes.cpp](ICPC-training/lovely_palindromes.cpp) |
 | [Sort the Array](https://codeforces.com/contest/451/problem/B) | [sort_the_array.cpp](ICPC-training/sort_the_array.cpp) |
+| [Summer selloff](https://codeforces.com/contest/810/problem/B) | [summer_selloff.cpp](ICPC-training/summer_selloff.cpp) |
