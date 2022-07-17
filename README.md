@@ -77,5 +77,6 @@
 | [Double Strings](https://codeforces.com/contest/1703/problem/D) | [double_strings.cpp](ICPC-training/double_strings.cpp) |
 | [Lovely Palindromes](https://codeforces.com/contest/688/problem/B) | [lovely_palindromes.cpp](ICPC-training/lovely_palindromes.cpp) |
 | [Sort the Array](https://codeforces.com/contest/451/problem/B) | [sort_the_array.cpp](ICPC-training/sort_the_array.cpp) |
-| [Summer selloff](https://codeforces.com/contest/810/problem/B) | [summer_selloff.cpp](ICPC-training/summer_selloff.cpp) |
+| [Summer sell-off](https://codeforces.com/contest/810/problem/B) | [summer_sell_off.cpp](ICPC-training/summer_selloff.cpp) |
 | [Mark the Photographer](https://codeforces.com/contest/1705/problem/0) | [mark_the_photographer.cpp](ICPC-training/mark_the_photographer.cpp) |
+| [Colorful Field](https://codeforces.com/contest/79/problem/B) | [colorful_field.cpp](ICPC-training/colorful_field.cpp) |
