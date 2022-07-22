@@ -81,3 +81,4 @@
 | [Mark the Photographer](https://codeforces.com/contest/1705/problem/0) | [mark_the_photographer.cpp](ICPC-training/mark_the_photographer.cpp) |
 | [Colorful Field](https://codeforces.com/contest/79/problem/B) | [colorful_field.cpp](ICPC-training/colorful_field.cpp) |
 | [Another String Minimization Problem](https://codeforces.com/contest/1706/problem/A) | [another_string_minimization_problem.cpp](ICPC-training/another_string_minimization_problem.cpp) |
+| [Mahmoud and a Triangle](https://codeforces.com/contest/766/problem/B) | [mahmoud_and_a_triangle.cpp](ICPC-training/mahmoud_and_a_triangle.cpp) |
