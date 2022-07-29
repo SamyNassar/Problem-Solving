@@ -83,3 +83,4 @@
 | [Another String Minimization Problem](https://codeforces.com/contest/1706/problem/A) | [another_string_minimization_problem.cpp](ICPC-training/another_string_minimization_problem.cpp) |
 | [Mahmoud and a Triangle](https://codeforces.com/contest/766/problem/B) | [mahmoud_and_a_triangle.cpp](ICPC-training/mahmoud_and_a_triangle.cpp) |
 | [Students and Shoelaces](https://codeforces.com/contest/129/problem/B) | [students_and_shoelaces.cpp](ICPC-training/students_and_shoelaces.cpp) |
+| [Dreamoon and WiFi](https://codeforces.com/contest/476/problem/B) | [dreamoon_and_wifi.cpp](ICPC-training/dreamoon_and_wifi.cpp) |
