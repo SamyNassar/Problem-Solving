@@ -84,3 +84,4 @@
 | [Mahmoud and a Triangle](https://codeforces.com/contest/766/problem/B) | [mahmoud_and_a_triangle.cpp](ICPC-training/mahmoud_and_a_triangle.cpp) |
 | [Students and Shoelaces](https://codeforces.com/contest/129/problem/B) | [students_and_shoelaces.cpp](ICPC-training/students_and_shoelaces.cpp) |
 | [Dreamoon and WiFi](https://codeforces.com/contest/476/problem/B) | [dreamoon_and_wifi.cpp](ICPC-training/dreamoon_and_wifi.cpp) |
+| [Olympic Medal](https://codeforces.com/contest/215/problem/B) | [olympic_medal.cpp](ICPC-training/olympic_medal.cpp) |
