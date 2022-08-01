@@ -85,3 +85,4 @@
 | [Students and Shoelaces](https://codeforces.com/contest/129/problem/B) | [students_and_shoelaces.cpp](ICPC-training/students_and_shoelaces.cpp) |
 | [Dreamoon and WiFi](https://codeforces.com/contest/476/problem/B) | [dreamoon_and_wifi.cpp](ICPC-training/dreamoon_and_wifi.cpp) |
 | [Olympic Medal](https://codeforces.com/contest/215/problem/B) | [olympic_medal.cpp](ICPC-training/olympic_medal.cpp) |
+| [Filya and Homework](https://codeforces.com/contest/714/problem/B) | [filya_and_homework.cpp](ICPC-training/filya_and_homework.cpp) |
