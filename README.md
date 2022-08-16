@@ -87,3 +87,4 @@
 | [Olympic Medal](https://codeforces.com/contest/215/problem/B) | [olympic_medal.cpp](ICPC-training/olympic_medal.cpp) |
 | [Filya and Homework](https://codeforces.com/contest/714/problem/B) | [filya_and_homework.cpp](ICPC-training/filya_and_homework.cpp) |
 | [Inna and New Matrix of Candies](https://codeforces.com/contest/400/problem/B) | [inna_and_new_matrix_of_candies.cpp](ICPC-training/inna_and_new_matrix_of_candies.cpp) |
+| [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | [i_wanna_be_the_guy.cpp](ICPC-training/i_wanna_be_the_guy.cpp) |
